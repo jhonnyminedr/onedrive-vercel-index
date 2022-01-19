@@ -1,8 +1,8 @@
 {
-  "userPrincipalName": "spencer.woo@outlook.com",
+  "userPrincipalName": "balupavuluri@t.5tb.in",
   "icon": "/icons/128.png",
   "title": "Spencer's OneDrive",
-  "baseDirectory": "/Public",
+  "baseDirectory": "/django",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
